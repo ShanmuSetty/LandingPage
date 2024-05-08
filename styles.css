@@ -63,7 +63,7 @@ a {
   text-decoration: none;
   font-size: 2vh;
   color: wheat;
-  cursor: default;
+  cursor: default !important;
   transition: 0.3s ease-in-out;
   cursor: default !important;
 }
