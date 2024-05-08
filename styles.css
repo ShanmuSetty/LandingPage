@@ -23,7 +23,7 @@ h1 {
   width: fit-content;
   height: fit-content;
   position: relative;
-  cursor: default;
+  cursor: default !important;
 }
 .navbar {
   position: fixed;
@@ -65,6 +65,7 @@ a {
   color: wheat;
   cursor: default;
   transition: 0.3s ease-in-out;
+  cursor: default !important;
 }
 a:hover {
   scale: 1.2;
